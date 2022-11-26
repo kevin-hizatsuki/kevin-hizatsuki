@@ -29,10 +29,4 @@
 
 ![Snake animation](https://github.com/kevin-hizatsuki/kevin-hizatsuki/blob/output/github-contribution-grid-snake.svg)
 
- ##
-
-- 🔭 Hoje trabalho com engenharia de dados/Ciencia de dados;
-- 🌱 Estudando machine learning;
-
-
 
